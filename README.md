@@ -1,6 +1,7 @@
 # Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models
 
-> **Warning:** The latest version can be found in the [verificarlo/fuzzy repository](https://github.com/verificarlo/fuzzy).
+> [!IMPORTANT]
+> The latest version of Fuzzy-Pytorch can be found in the [verificarlo/fuzzy repository](https://github.com/verificarlo/fuzzy#fuzzy-pytorch).
 
 This repository contains the experimental code and reproducibility artifacts for the paper "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models".
   
